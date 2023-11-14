@@ -1,5 +1,5 @@
 /**
- * The assert module export a default function, 
+ * The assert module export a default function,
  * that is used for test if a value is truthy.
  * 
  * This function has an alias, which is ok.
